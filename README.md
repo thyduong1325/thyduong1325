@@ -4,7 +4,6 @@
 <p align="center">
   <b>Computer&nbsp;Science &bull; Data&nbsp;Science &bull; AI Research</b><br>
   <i>Building intelligent systems and turning data into actionable insight.</i>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=7000&pause=1000&random=false&width=1200&height=100&lines=Building+intelligent+systems+and+turning data+into+actionabl+insight)](https://git.io/typing-svg)
 </p>
 
 ---
