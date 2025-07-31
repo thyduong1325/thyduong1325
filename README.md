@@ -69,11 +69,21 @@
 ## 🌟 My GitHub Stats
 
 <div align="center">
+  
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=thyduong1325" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=thyduong1325" alt="thyduong1325's GitHub Streak" />
   </a>
   
-  <a href="https://github.com/thyduong1325">
-    <img src="https://github-readme-stats.vercel.app/api?username=thyduong1325&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=thyduong1325&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="thyduong1325's GitHub Stats" />
   </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyduong1325&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="thyduong1325's Top Languages" />
+  </a>
+
 </div>
